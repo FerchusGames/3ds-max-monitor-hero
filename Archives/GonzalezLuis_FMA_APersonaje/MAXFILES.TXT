@@ -1,0 +1,14 @@
+﻿C:\Users\Ferchus\Documents\GitHub\GonzalezLuis_FMA\Archives\t$m$p$$$\GonzalezLuis_FMA_APersonaje.max
+C:\Users\Ferchus\Documents\GitHub\GonzalezLuis_FMA\Archives\t$m$p$$$\MAXFILES.TXT
+C:\Users\Ferchus\Documents\GitHub\GonzalezLuis_FMA\Materials\FMA_PROYECTO_ESCENARIO.png
+C:\Program Files\Autodesk\3ds Max 2023\maps\HDRI\old_bus_depot_2k.hdr
+C:\Users\Ferchus\Documents\GitHub\GonzalezLuis_FMA\Maps\Character\Character_BaseColor.png
+C:\Users\Ferchus\Documents\GitHub\GonzalezLuis_FMA\Maps\Character\Character_Roughness.jpg
+C:\Users\Ferchus\Documents\GitHub\GonzalezLuis_FMA\Maps\Character\Character_Metallic.jpg
+C:\Users\Ferchus\Documents\GitHub\GonzalezLuis_FMA\Maps\Sword\Sword_BaseColor.png
+C:\Users\Ferchus\Documents\GitHub\GonzalezLuis_FMA\Maps\Sword\Sword_Metallic.jpg
+C:\Users\Ferchus\Documents\GitHub\GonzalezLuis_FMA\Maps\Sword\Sword_Roughness.jpg
+C:\Users\Ferchus\Documents\GitHub\GonzalezLuis_FMA\Maps\Props\Props_BaseColor.png
+C:\Users\Ferchus\Documents\GitHub\GonzalezLuis_FMA\Maps\Props\Props_Metallic.jpg
+C:\Users\Ferchus\Documents\GitHub\GonzalezLuis_FMA\Materials\E-SZEFaXsAcWXAH.png
+C:\Program Files\Autodesk\3ds Max 2023\maps\uvwunwrap\UV_Checker.png
